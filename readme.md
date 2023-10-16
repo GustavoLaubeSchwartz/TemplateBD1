@@ -9,9 +9,6 @@ Gustavo Laube Schwartz |  gustavobilabbong@gmail.com <br>
 Cassiano Caporalli Magalhães | cassiano.caporalis@gmail.com <br>
 Henrique Meireles Bravim | henriquembravim@gmail.com <br>
 
-...<br>
-
-
 ### 2.MINI-MUNDO<br>
 
 Descrever o mini-mundo! (Não deve ser maior do que 30 linhas, se necessário resumir para justar) <br>

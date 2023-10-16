@@ -1,12 +1,14 @@
-# TRABALHO 01:  Título do Trabalho
+# TRABALHO 01:   SISTEMA PARA UBS (UNIDADE BÁSICA DE SAÚDE)
 Trabalho desenvolvido durante a disciplina de BD1
 
 # Sumário
 
 ### 1. COMPONENTES<br>
 Integrantes do grupo<br>
-primeiro_componente_do_grupo:email_primeiro_componente@dominio.com<br>
-segundo_componente_do_grupo:email_segundo_componente@dominio.com<br>
+Gustavo Laube Schwartz |  gustavobilabbong@gmail.com <br>
+Cassiano Caporalli Magalhães | cassiano.caporalis@gmail.com <br>
+Henrique Meireles Bravim | henriquembravim@gmail.com <br>
+
 ...<br>
 
 
